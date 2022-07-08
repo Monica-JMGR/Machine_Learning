@@ -23,4 +23,7 @@ Los atributos con los que vamos a trabajar son:
 + Potencia (‘power’)
 + Provincia (‘province’)
 
-![imagen]('.coches.jpg')
+<br>
+<br>
+
+Proyecto ML | Bootcamp Data Science | Monica Garrido Ramirez
