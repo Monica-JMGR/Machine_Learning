@@ -23,4 +23,4 @@ Los atributos con los que vamos a trabajar son:
 + Potencia (‘power’)
 + Provincia (‘province’)
 
-![imagen]('coches.jpg')
+![imagen]('./coches.jpg')
